@@ -1,0 +1,23 @@
+{
+  "name": "osjs-devices-adapter",
+  "version": "1.0.0",
+  "description": "Adds access to the devices that are added to the system in OS.js V3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceboyRoss01/osjs-devices-adapter.git"
+  },
+  "author": "Spaceboy Ross",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SpaceboyRoss01/osjs-devices-adapter/issues"
+  },
+  "homepage": "https://github.com/SpaceboyRoss01/osjs-devices-adapter#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "systeminformation": "^3.51.3"
+  }
+}
